@@ -6,5 +6,5 @@ To run the project clone the repo & go to the project folder and type these comm
 
 ```
 npm install
-npm run server
+npm run serve
 ```
